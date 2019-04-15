@@ -1,3 +1,1 @@
 print('aa')
-
-print('jingli')
