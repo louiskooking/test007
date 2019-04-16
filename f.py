@@ -1,3 +1,2 @@
 print('aa')
-
-print('zhangsan')
+print('jingli')
